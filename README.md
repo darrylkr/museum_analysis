@@ -10,13 +10,10 @@ The dataset has 5 columns, with 1 column being the date ranging from Jan 2014 to
 - Visitor count per museum by date  
 - Average visitor count per month for each museum  
 - Distribution of visitor count for each museum   
-- Normalized visitor count   
-- GDP vs % of population that has received at least 1 vaccination  
+- Normalized visitor count to assess seasonality effect over the year   
+- q  
 
 ## Data Visualisation  
-__Infections and Deaths Dashboard__
-![Infections & Deaths](Infections%20and%20Deaths.png)  
----
-__Global Vaccine Tracker__
----
-![Global Vaccine Tracker](Global%20Vaccine%20Tracker.png)  
+
+
+
