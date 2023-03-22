@@ -2,7 +2,7 @@
 
 #### The following is an exploration of a dataset on museum visitors in the US between Jan 2014 to Nov 2018. I load the dataset into an ipynb and perform some EDA and visualisations on it.   
 
-Dataset file: [musemu visitors dataset](museum_visitors.csv)  
+Dataset file: [museum visitors dataset](museum_visitors.csv)  
 Python notebook: [EDA Notebook](museum_visitor_analysis.ipynb)  
 
 ## Data and Exploration
