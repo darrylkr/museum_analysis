@@ -22,7 +22,7 @@ Assessing the seasonality of the Firehouse Museum visitors across the years.
 Although there is doesn't seem to be a consistent pattern for visitors in September each year, looking at the average of June to August for each year could be a decent approximation of September's visitor numbers.  
 Years 2016 and 2017 have September's visitor count at the end of a downtrend whereas for 2015 and 2018, the visitor count ticks upwards. With heavier emphasis on 2015 for being more recent to 2014 as compared to other years, I simply used the mean visitors of June to August.  
 
-See <b>2014-09-01</b> 
+See <b>2014-09-01</b>   
 Before:  
 ![Firehouse Museum 2014 Before Imputation](imgs/firehouse_museum_2014_before2.png)  
 
